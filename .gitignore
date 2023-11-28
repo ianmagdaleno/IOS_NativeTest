@@ -2,10 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/IOS_NativeTest/Library/
-/IOS_NativeTest/temp/
-/IOS_NativeTest/Logs/
-/IOS_NativeTest/UserSettings/
+/IOS Test/Library/
+/IOS Test/temp/
+/IOS Test/Logs/
+/IOS Test/UserSettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
